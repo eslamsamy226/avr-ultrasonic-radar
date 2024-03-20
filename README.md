@@ -28,7 +28,10 @@ https://github.com/eslamsamy226/avr-ultrasonic-radar/assets/128985943/83e5c9ac-c
 ## 🔳Hardware
 I have also implemented this project in hardware:
 
-Uploading hardware_done.mp4…
+
+https://github.com/eslamsamy226/avr-ultrasonic-radar/assets/128985943/3fecbf46-14b0-4866-8b19-31a880d3836f
+
+
 
 
 
