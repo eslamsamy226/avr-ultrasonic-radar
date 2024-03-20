@@ -3,6 +3,7 @@ This project is an ultrasonic radar using AVR archticture, where an ultrasonic s
 distance and the degree at which it has detected it, the movement of the sensor can be controlled automatically or manualy, one of the challenges I faced in designing
 this project is using ATMEGA32's TIMER1 as input captuer unit to interface with the ultrasonic sensor and as signal generator to interface with the servo motor,I managed
 to solve this issue by switching between the two peripherals every 20ms. 
+## ⚡Components
  The following components have been used:
  * ATMEGA32 MCU
  * Buzzer
