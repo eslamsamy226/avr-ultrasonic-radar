@@ -23,7 +23,9 @@ these drivers can be found in /src forlder
 
 ## 👨‍💻Simulation
 The proteus simulation design can be found in (radar.pdsprj) file, here is the simulation in action:
-https://github.com/eslamsamy226/avr-ultrasonic-radar/assets/128985943/83e5c9ac-c612-433f-b9b5-bd7f9307d2ce
+
+https://github.com/eslamsamy226/avr-ultrasonic-radar/assets/128985943/c9b16af4-b9f4-45c3-9eee-508f58ee726c
+
 
 ## 🔳Hardware
 I have also implemented this project in hardware:
